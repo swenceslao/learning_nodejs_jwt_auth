@@ -1,4 +1,4 @@
-# learning_nodejs_jwt_auth
+# Learning JWT on Node.JS/Express
 Learning JWT on Node.JS and Express from DevEd on YouTube
 
 Link to YouTube tutorial: https://youtu.be/2jqok-WgelI
